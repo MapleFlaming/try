@@ -5,7 +5,7 @@ public class Project {
                 System.out.println(123);
             }
         }
-        class F {
+        class A {
             public void printABC(){
                 int d = 1;
 
@@ -25,7 +25,7 @@ public class Project {
                 System.out.println(123);
             }
         }
-        class F {
+        class B {
             public void printABC(){
                 int d = 1;
 

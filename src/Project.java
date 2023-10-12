@@ -1,6 +1,6 @@
 public class Project {
     public int aaa(){
-        class D {
+        class E {
             public void printABC(){
                 System.out.println(123);
             }
@@ -16,13 +16,13 @@ public class Project {
                 System.out.println(d);
             }
         }
-        D a = new D();
+        E a = new E();
         a.printABC();
         return 1;
     }
 
     public double aaa(int b){
-        class D {
+        class E {
             public void printABC(){
                 System.out.println(123);
             }
@@ -38,7 +38,7 @@ public class Project {
                 System.out.println(d);
             }
         }
-        D a = new D();
+        E a = new E();
         a.printABC();
         return 1;
     }

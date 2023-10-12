@@ -5,7 +5,7 @@ public class Project {
                 System.out.println(123);
             }
         }
-        class X {
+        class A {
             public void printABC(){
                 int d = 1;
 
@@ -20,7 +20,7 @@ public class Project {
     }
 
     public double aaa(int b){
-        class Y {
+        class E {
             public void printABC(){
                 System.out.println(123);
             }

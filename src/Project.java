@@ -1,6 +1,6 @@
 public class Project {
     public int aaa(){
-        class A {
+        class D {
             public void printABC(){
                 System.out.println(123);
             }
@@ -16,7 +16,7 @@ public class Project {
                 System.out.println(d);
             }
         }
-        A a = new A();
+        D a = new D();
         a.printABC();
         return 1;
     }

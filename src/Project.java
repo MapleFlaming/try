@@ -1,5 +1,5 @@
 public class Project {
-    public int aaa(){
+    public int bbb(){
         System.out.println(114514);
         class E {
             public void print123(){

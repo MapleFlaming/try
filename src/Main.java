@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         Project project = new Project();
-        int c = project.bbb();
+        int d = 111;
+        int b = project.ccc();
+        int e = project.ccc();
     }
 }

@@ -1,6 +1,5 @@
 public class Project {
     public int ccc(){
-        System.out.println(114514);
         class E {
             public void print123(){
                 System.out.println(123);
@@ -17,6 +16,7 @@ public class Project {
                 System.out.println(d);
             }
         }
+        System.out.println(114514);
         return 1;
     }
 
